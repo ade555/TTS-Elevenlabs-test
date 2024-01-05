@@ -27,4 +27,3 @@ while True:
         print("Your input exceeds the maximum character length")
         content=""
     break
-
